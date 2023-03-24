@@ -1,0 +1,147 @@
+.formSection
+{
+    clear:both;
+    padding:5px 0;
+}
+
+.formField
+{
+    float:left;
+    vertical-align:top;
+    padding:10px;
+}
+
+.mainLabel
+{
+    font-weight:700;
+}
+
+.hiddenLabel
+{
+    display:none;
+}
+
+.formLabel
+{
+    float:left;
+    vertical-align:top;
+    width:100px;
+    font-weight:700;
+    padding:10px 5px;
+}
+
+.formSupporting
+{
+    margin:4px 0;
+    color:#777;
+    font-size:11px;
+}
+
+.formSpacerCell
+{
+    float:left;
+    width:15px;
+}
+
+.formHeading
+{
+    font-size:150%;
+    font-weight:700;
+}
+
+.formSubmit
+{
+    clear:both;
+    padding:25px 5px;
+}
+
+.formSubmit input
+{
+    padding:3px;
+}
+
+.formError
+{
+    font-weight:700;
+    margin:15px 0;
+    background-color:#fee;
+    color:#000;
+    border:1px solid red;
+    padding:10px;
+    clear:both;
+}
+
+form,.formErrorBack
+{
+    margin:0;
+}
+
+.formRow,.formSpacer
+{
+    clear:both;
+}
+
+.formRow
+{
+    height:100%;
+}
+
+#formMainDiv
+{
+    width:100%;
+    display:table;
+}
+
+#fsFooter
+{
+    padding-top:10px;
+    text-align:right;
+    border-top:solid 1px #000;
+}
+
+#fsFooter img
+{
+    border:0;
+    vertical-align:text-top;
+}
+
+#captcha
+{
+    margin-bottom:20px;
+}
+
+#captcha_image
+{
+    float:left;
+    border:solid 1px #333;
+}
+
+#captcha_audio_link,#captcha_reload_link
+{
+    display:block;
+}
+
+#captcha_audio_link img
+{
+    padding:3px;
+    margin:0;
+    border:solid 1px #333;
+    border-left:0;
+    border-bottom:0;
+    background:#FFF;
+}
+
+#captcha_reload_link img
+{
+    padding:3px;
+    margin:0;
+    border:solid 1px #333;
+    border-left:0;
+    background:#FFF;
+}
+
+#captcha_entry
+{
+    margin-top:5px;
+}
+
